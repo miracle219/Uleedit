@@ -1,0 +1,27 @@
+/dist
+# Ignore environment variables file
+.env
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore build output directory
+/build
+
+# Ignore development server logs
+npm-debug.log
+
+# Ignore production build artifacts
+.next
+
+# Ignore editor specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+.private
+.dist
+dist
+yarn.lock
